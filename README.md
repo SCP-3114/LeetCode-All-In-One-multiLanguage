@@ -1,4 +1,4 @@
 # LeetCode-All-In-One-multiLanguage
-🔥 非常非常精巧的LeetCode题解（C++与Python版）｜ 包含高频面试题 + 思路分析 + 复杂度分析 + 代码注释 ｜ 按题型分类，持续更新！  
-1.滑动窗口与双指针
+These are my casual notes while working through the LeetCode problem bank. I will provide solutions to the problems in multiple languages and from various perspectives, in the order of their problem numbers and difficulty levels (though, of course, this is not recommended for beginners).  
+If you like it, please give me a star. It's very important to me.
 
